@@ -54,12 +54,17 @@
         "name" : "Itachi",
         "anime" : "Naruto",
         "img" : " https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/12/Itachi-ANBU-Featured.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5"
-
+    }, {
+        "id" : "30",
+        "name" : "Kaguya Sama",
+        "anime" : "Kaguya sama -love is war",
+        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.looper.com%2F441396%2Fkaguya-sama-love-is-war-season-3-release-date-cast-plot%2F&psig=AOvVaw331NGg6RnppJwO_w0zc7mv&ust=1633108605268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiXwPCZp_MCFQAAAAAdAAAAABAD",
+     
+    }
     {
         "id" : "18",
         "name" : "Kakashi",
         "anime" : "Naruto",
         "img" : "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149"
-        
     }
 ]
