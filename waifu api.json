@@ -7,8 +7,13 @@
         ""
 
     },
-    {
+     {
         "id" : "2",
+        "name" : "Kaguya",
+        "anime" : "Kaguya Sama",
+        "img" : "https://www.looper.com/img/gallery/kaguya-sama-love-is-war-season-3-release-date-cast-and-plot/intro-1624070439.webp",
+    {
+        "id" : "3",
         "name" : "Hinata",
         "anime" : "Naruto",
         "img" : "",
