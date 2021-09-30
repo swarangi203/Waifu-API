@@ -99,4 +99,10 @@
         "img" : "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/ef/db/27/efdb2794a4be906c948dcb8950c3547dd80441018955beff56c955e1c6a15ec4.jpg"
       
     },
+    {
+        "id" : "23",
+        "name" : "Shinigami",
+        "anime" : "Death Note",
+        "img" : ""      
+    },
 ]
