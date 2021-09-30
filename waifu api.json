@@ -131,4 +131,10 @@
         "anime" : "Death Note",
         "img" : ""      
     },
+     {
+        "id" : "24",
+        "name" : "Boa Hancock",
+        "anime" : "One piece",
+        "img" : "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/524?cb=20131206005412"      
+    }
 ]
