@@ -15,7 +15,7 @@
         "id": "3",
         "name": "Hinata",
         "anime": "Naruto",
-        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fboruto%2Fimages%2F9%2F96%2FHinata_Boruto_series.jpg%2Frevision%2Flatest%3Fcb%3D20210318183826&imgrefurl=https%3A%2F%2Fboruto.fandom.com%2Fwiki%2FHinata_Uzumaki&tbnid=4g17UrOyNNcfOM&vet=12ahUKEwjd-LvD2qjzAhXJkksFHUZwCPIQMygBegUIARDNAQ..i&docid=4-UiOgQg1xcT6M&w=400&h=400&q=hinata&ved=2ahUKEwjd-LvD2qjzAhXJkksFHUZwCPIQMygBegUIARDNAQ"
+        "img": ""
     },
     {
         "id": "4",
@@ -196,5 +196,11 @@
         "name": "Zero Two",
         "anime": "Darling in the Franxx",
         "img": "https://www.meme-arsenal.com/memes/452c4e379846b305bce41ce84015dd4e.jpg"
-    }
+    },
+    {
+        "id": "34",
+        "name": "Koro-sensei",
+        "anime": "assassination classroom",
+        "img": "https://www.google.com/search?q=koro+sensei&sa=X&bih=638&biw=1443&hl=en&sxsrf=AOaemvIs6ei0SLXFlnzIqP9NZtwNsJ0wzA:1633075429072&tbm=isch&source=iu&ictx=1&fir=xwLF6gT41ZnSiM%252CuG_k256aecm65M%252C_%253BvT_Fu0SJnLyhsM%252CuG_k256aecm65M%252C_%253BYzJfxUhxcjAHtM%252CuG_k256aecm65M%252C_%253BVug3KSS-17yTwM%252CMbBr8LxDymQtZM%252C_%253Bxky4OBxjby0MOM%252C_WkZhgy9nbt06M%252C_%253BD4dydUTWXZVlsM%252CuG_k256aecm65M%252C_%253BQQ1kJLcv0aFCpM%252CpE0751xYTwyN_M%252C_&vet=1&usg=AI4_-kT9ekJ5nPaHQnjVUwTk8lpvfMBD_Q&ved=2ahUKEwi9_9yG4KjzAhW2zjgGHcV4CKsQ_B16BAhVEAE#imgrc=xwLF6gT41ZnSiM"
+    },
 ]
