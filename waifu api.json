@@ -148,6 +148,18 @@
         "name" : "Karin",
         "anime" : "Naruto",
         "img" : "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png/revision/latest/scale-to-width-down/300?cb=20170906102126"      
-    }
+    },
+	{
+		"id": "28",
+		"name": "Emilia",
+		"anime": "Re-Zero",
+		"img": "https://images.alphacoders.com/711/thumb-1920-711276.png"
+	},
+	{
+		"id":"29",
+		"name": "Violet",
+		"anime": "Violet Evergarden",
+		"img": "https://images.alphacoders.com/901/thumb-1920-901101.png"
+	}
     
 ]
