@@ -142,5 +142,12 @@
         "name" : "Ino",
         "anime" : "Naruto",
         "img" : "https://static.wikia.nocookie.net/naruto/images/d/dd/Ino.png/revision/latest?cb=20170622102745"      
+    },
+     {
+        "id" : "27",
+        "name" : "Karin",
+        "anime" : "Naruto",
+        "img" : "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png/revision/latest/scale-to-width-down/300?cb=20170906102126"      
     }
+    
 ]
