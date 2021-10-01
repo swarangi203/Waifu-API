@@ -168,22 +168,32 @@
 		"anime": "Rising Shield Hero",
 		"img": "https://images.alphacoders.com/103/thumb-1920-1038035.png"
 	},
-<<<<<<< HEAD
+
 	{
-		"id": "31",
+		"id": "33",
 		"name": "Shinobu Oshino",
 		"anime": "Bakemonogatari",
 		"img": "https://images.alphacoders.com/668/thumb-1920-668177.jpg"
 	},
-=======
->>>>>>> f101a0f366fb61e89b97b1fd574749128a280e2a
 
     {
         "id" : "32",
         "name" : "Kolan",
         "anime" : "Naruto",
         "img" : "https://static.wikia.nocookie.net/naruto/images/5/57/Konan.png/revision/latest?cb=20210823194918"
-    }
-
+    },
+    },
+     {
+        "id" : "29",
+        "name" : "Eren",
+        "anime" : "Attack on Titan",
+        "img" : "https://www.peakpx.com/en/hd-wallpaper-desktop-vdbvp"
+      },
+     {
+        "id" : "30",
+        "name" : "Naruto",
+        "anime" : "Naruto",
+        "img" : "http://7-themes.com/collections/naruto-uzumaki-wallpapers/4480115/"
+      }
 
 ]
