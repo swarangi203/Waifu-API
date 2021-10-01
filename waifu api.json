@@ -203,7 +203,7 @@
         "anime": "Fairy Tail",
         "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Ffairytail%2Fimages%2F9%2F9c%2FErza_2018.png%2Frevision%2Flatest%2Fscale-to-width-down%2F180%3Fcb%3D20180821153834&imgrefurl=https%3A%2F%2Ffairytail.fandom.com%2Fwiki%2FErza_Scarlet&tbnid=xFS0uzpS7jGljM&vet=12ahUKEwiOlpaX36jzAhXvjEsFHTZNBo8QMygCegUIARDJAQ..i&docid=BIJWOLIBJ7LGCM&w=180&h=453&q=erza%20scarlet%20anime%20name&hl=en&ved=2ahUKEwiOlpaX36jzAhXvjEsFHTZNBo8QMygCegUIARDJAQ"
     },
-  {
+    {
         "id": "35",
         "name": "Koro-sensei",
         "anime": "assassination classroom",
@@ -215,4 +215,46 @@
         "anime": "full metal alchemist brotherhood",
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.looper.com%2F364093%2Fthe-real-meaning-of-the-truth-in-fullmetal-alchemist-brotherhood%2F&psig=AOvVaw0rDTiWUfOh5ttq73IKBwh5&ust=1633162882112000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj90N7kqPMCFQAAAAAdAAAAABAD"
     },
+   {
+        "id": "37",
+        "name": "Lucy_Heartfilia",
+        "anime": " Fairy Tail",
+        "img":"https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751"
+    },
+  {
+        "id": "38",
+        "name": "Lelouch Lamperouge",
+        "anime": "code geass",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F578571883353992767%2F&psig=AOvVaw3DSfKEyiY2a1p3YVuSbCJf&ust=1633162251062000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDZoNThqPMCFQAAAAAdAAAAABAJ"
+    }, 
+     {
+        "id": "39",
+        "name": "Kushina",
+        "anime": "Naruto",
+        "img": "https://static.wikia.nocookie.net/naruto/images/d/db/Kushina.png/revision/latest?cb=20150719165408"
+    },
+  {
+        "id": "40",
+        "name": "kaneki ken",
+        "anime": "tokyo ghoul",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F3oBEOo&psig=AOvVaw17d5FeydT2z069ALfx8fI8&ust=1633164081079000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjG0rroqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "41",
+        "name": "Shinichi Izumi",
+        "anime": "Parasyte",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcharacterprofile.fandom.com%2Fwiki%2FShinichi_Izumi&psig=AOvVaw1Mf_87R1jAwGA-OaI6r4ya&ust=1633164441145000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiVzebpqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "42",
+        "name": "Rimuru Tempest",
+        "anime": "That Time I Got Reincarnated as a Slime",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthat-time-i-got-reincarnated-as-a-slime-fanon.fandom.com%2Fwiki%2FRimuru_Tempest&psig=AOvVaw0YR4NwgjZBlKDYxxcAqKZb&ust=1633164615977000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC1kbvqqPMCFQAAAAAdAAAAABAU"
+    },
+  {
+        "id": "43",
+        "name": "Wakatoshi Ushijima",
+        "anime": "Haikyu!!",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdbzff.fandom.com%2Fwiki%2FWakatoshi_Ushijima&psig=AOvVaw16MBcD9GvPUf4nUc03QXUa&ust=1633164769079000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDkuYjrqPMCFQAAAAAdAAAAABAD"
+    }
 ]
