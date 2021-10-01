@@ -298,5 +298,11 @@
         "name": "Temari",
         "anime": "Naruto",
         "img": "https://static.wikia.nocookie.net/naruto/images/b/bb/Temari_newshot.png/revision/latest?cb=20180131102406"
+    },
+  {
+        "id": "51",
+        "name": "Haku",
+        "anime": "Naruto",
+        "img": "https://static.wikia.nocookie.net/naruto/images/9/90/Haku.png/revision/latest?cb=20150123171811"
     }
 ]
