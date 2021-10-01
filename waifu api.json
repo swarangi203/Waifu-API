@@ -203,16 +203,70 @@
         "anime": "Fairy Tail",
         "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Ffairytail%2Fimages%2F9%2F9c%2FErza_2018.png%2Frevision%2Flatest%2Fscale-to-width-down%2F180%3Fcb%3D20180821153834&imgrefurl=https%3A%2F%2Ffairytail.fandom.com%2Fwiki%2FErza_Scarlet&tbnid=xFS0uzpS7jGljM&vet=12ahUKEwiOlpaX36jzAhXvjEsFHTZNBo8QMygCegUIARDJAQ..i&docid=BIJWOLIBJ7LGCM&w=180&h=453&q=erza%20scarlet%20anime%20name&hl=en&ved=2ahUKEwiOlpaX36jzAhXvjEsFHTZNBo8QMygCegUIARDJAQ"
     },
-  {
-  "id": "34",
+    {
+        "id": "35",
         "name": "Koro-sensei",
         "anime": "assassination classroom",
         "img": "https://www.google.com/search?q=koro+sensei&sa=X&bih=638&biw=1443&hl=en&sxsrf=AOaemvIs6ei0SLXFlnzIqP9NZtwNsJ0wzA:1633075429072&tbm=isch&source=iu&ictx=1&fir=xwLF6gT41ZnSiM%252CuG_k256aecm65M%252C_%253BvT_Fu0SJnLyhsM%252CuG_k256aecm65M%252C_%253BYzJfxUhxcjAHtM%252CuG_k256aecm65M%252C_%253BVug3KSS-17yTwM%252CMbBr8LxDymQtZM%252C_%253Bxky4OBxjby0MOM%252C_WkZhgy9nbt06M%252C_%253BD4dydUTWXZVlsM%252CuG_k256aecm65M%252C_%253BQQ1kJLcv0aFCpM%252CpE0751xYTwyN_M%252C_&vet=1&usg=AI4_-kT9ekJ5nPaHQnjVUwTk8lpvfMBD_Q&ved=2ahUKEwi9_9yG4KjzAhW2zjgGHcV4CKsQ_B16BAhVEAE#imgrc=xwLF6gT41ZnSiM"
     },
-    {
+  {
+        "id": "36",
+        "name": "Edward Elric",
+        "anime": "full metal alchemist brotherhood",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.looper.com%2F364093%2Fthe-real-meaning-of-the-truth-in-fullmetal-alchemist-brotherhood%2F&psig=AOvVaw0rDTiWUfOh5ttq73IKBwh5&ust=1633162882112000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj90N7kqPMCFQAAAAAdAAAAABAD"
+    },
+   {
+        "id": "37",
+        "name": "Lucy_Heartfilia",
+        "anime": " Fairy Tail",
+        "img":"https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751"
+    },
+  {
         "id": "38",
+        "name": "Lelouch Lamperouge",
+        "anime": "code geass",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F578571883353992767%2F&psig=AOvVaw3DSfKEyiY2a1p3YVuSbCJf&ust=1633162251062000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDZoNThqPMCFQAAAAAdAAAAABAJ"
+    }, 
+     {
+        "id": "39",
+        "name": "Kushina",
+        "anime": "Naruto",
+        "img": "https://static.wikia.nocookie.net/naruto/images/d/db/Kushina.png/revision/latest?cb=20150719165408"
+    },
+  {
+        "id": "40",
+        "name": "Kaneki Ken",
+        "anime": "tokyo ghoul",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F3oBEOo&psig=AOvVaw17d5FeydT2z069ALfx8fI8&ust=1633164081079000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjG0rroqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "41",
+        "name": "Shinichi Izumi",
+        "anime": "Parasyte",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcharacterprofile.fandom.com%2Fwiki%2FShinichi_Izumi&psig=AOvVaw1Mf_87R1jAwGA-OaI6r4ya&ust=1633164441145000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiVzebpqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "42",
+        "name": "Rimuru Tempest",
+        "anime": "That Time I Got Reincarnated as a Slime",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthat-time-i-got-reincarnated-as-a-slime-fanon.fandom.com%2Fwiki%2FRimuru_Tempest&psig=AOvVaw0YR4NwgjZBlKDYxxcAqKZb&ust=1633164615977000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC1kbvqqPMCFQAAAAAdAAAAABAU"
+    },
+  {
+        "id": "43",
+        "name": "Wakatoshi Ushijima",
+        "anime": "Haikyu!!",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdbzff.fandom.com%2Fwiki%2FWakatoshi_Ushijima&psig=AOvVaw16MBcD9GvPUf4nUc03QXUa&ust=1633164769079000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDkuYjrqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "44",
+        "name": "Senku Ishigami",
+        "anime": "Dr. Stone",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fsenku-ishigami-dr-stone-wallpaper%2F2932x2932%2F&psig=AOvVaw28JXtgkM96DAuwSRaWxHp3&ust=1633163363343000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDXt-XlqPMCFQAAAAAdAAAAABAD"
+    },
+  {
+        "id": "45",
         "name": "Edward Newgate",
         "anime": "One Piece",
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fonepiece.fandom.com%2Fwiki%2FEdward_Newgate&psig=AOvVaw0eS4B_ggmwp3uYUzQUz8Fu&ust=1633163543390000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjO37nmqPMCFQAAAAAdAAAAABAD"
-    },
+    }
 ]
