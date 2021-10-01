@@ -149,6 +149,7 @@
         "anime" : "Naruto",
         "img" : "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png/revision/latest/scale-to-width-down/300?cb=20170906102126"      
     },
+
 	{
 		"id": "28",
 		"name": "Emilia",
@@ -166,7 +167,14 @@
 		"name": "Raphtalia",
 		"anime": "Rising Shield Hero",
 		"img": "https://images.alphacoders.com/103/thumb-1920-1038035.png"
-	}
+	},
 	
+    {
+        "id" : "31",
+        "name" : "Kolan",
+        "anime" : "Naruto",
+        "img" : "https://static.wikia.nocookie.net/naruto/images/5/57/Konan.png/revision/latest?cb=20210823194918"      
+    }
+
     
 ]
