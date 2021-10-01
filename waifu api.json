@@ -136,5 +136,11 @@
         "name" : "Boa Hancock",
         "anime" : "One piece",
         "img" : "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/524?cb=20131206005412"      
+    },
+      {
+        "id" : "26",
+        "name" : "Ino",
+        "anime" : "Naruto",
+        "img" : "https://static.wikia.nocookie.net/naruto/images/d/dd/Ino.png/revision/latest?cb=20170622102745"      
     }
 ]
