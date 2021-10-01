@@ -215,12 +215,17 @@
         "name": "Lucy_Heartfilia",
         "anime": " Fairy Tail",
         "img":"https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751"
-    }
+    },
     {
         "id": "36",
         "name": "Lelouch Lamperouge",
         "anime": "code geass",
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F578571883353992767%2F&psig=AOvVaw3DSfKEyiY2a1p3YVuSbCJf&ust=1633162251062000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDZoNThqPMCFQAAAAAdAAAAABAJ"
     }, 
-
+     {
+        "id": "39",
+        "name": "Kushina",
+        "anime": "Naruto",
+        "img": "https://static.wikia.nocookie.net/naruto/images/d/db/Kushina.png/revision/latest?cb=20150719165408"
+    }
 ]
