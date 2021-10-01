@@ -268,5 +268,11 @@
         "name": "Edward Newgate",
         "anime": "One Piece",
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fonepiece.fandom.com%2Fwiki%2FEdward_Newgate&psig=AOvVaw0eS4B_ggmwp3uYUzQUz8Fu&ust=1633163543390000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjO37nmqPMCFQAAAAAdAAAAABAD"
-    }
+    },
+  {
+        "id": "46",
+        "name": "Saitama",
+        "anime": "one punch man",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcharacterprofile.fandom.com%2Fwiki%2FSaitama&psig=AOvVaw0NsHk56kmu1rtCnWHmSyVv&ust=1633163638131000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiPm-_mqPMCFQAAAAAdAAAAABAD"
+    },
 ]
