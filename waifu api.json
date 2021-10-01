@@ -156,10 +156,17 @@
 		"img": "https://images.alphacoders.com/711/thumb-1920-711276.png"
 	},
 	{
-		"id":"29",
+		"id": "29",
 		"name": "Violet",
 		"anime": "Violet Evergarden",
 		"img": "https://images.alphacoders.com/901/thumb-1920-901101.png"
+	},
+	{
+		"id": "30",
+		"name": "Raphtalia",
+		"anime": "Rising Shield Hero",
+		"img": "https://images.alphacoders.com/103/thumb-1920-1038035.png"
 	}
+	
     
 ]
