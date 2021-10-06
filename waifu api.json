@@ -304,5 +304,11 @@
         "name": "Haku",
         "anime": "Naruto",
         "img": "https://static.wikia.nocookie.net/naruto/images/9/90/Haku.png/revision/latest?cb=20150123171811"
+    },
+    {
+        "id": "52",
+        "name": "Mai-san",
+        "anime": "Rascal does not dream of a Bunny Girl Senpai",
+        "img": "http://freeaddon.com/wp-content/uploads/2018/10/seishun-buta-yarou-first-impression-4.jpg"
     }
 ]
