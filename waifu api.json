@@ -352,5 +352,11 @@
         "name":"Ayano",
         "anime":"Engage Kiss",
         "img":"https://cdn.myanimelist.net/images/characters/8/476669.jpg"
-    }
+    },
+    {
+        "id": "56",
+        "name": "Kushina",
+        "anime": "Naruto",
+        "img": "https://images4.alphacoders.com/621/621483.png"
+    },
 ]
